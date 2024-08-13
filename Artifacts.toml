@@ -1,0 +1,143 @@
+[[catchaMouse16]]
+arch = "aarch64"
+git-tree-sha1 = "c06402797dc22576f5669b09971086261072ae96"
+os = "macos"
+
+    [[catchaMouse16.download]]
+    sha256 = "a52a8ccc59b6182dbbd5d79ecacc503d09db19ac75b8272a90c9baa9b30d4c78"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[catchaMouse16]]
+arch = "aarch64"
+git-tree-sha1 = "9cd709ff53351aa32560c8b8dfb2ccc223c77363"
+libc = "glibc"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "b1b9abf2fd47ad50e529d3d68656d874660f9b4b46c7bb72254fee51bcae569d"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[catchaMouse16]]
+arch = "aarch64"
+git-tree-sha1 = "2b031621cbfc23ba9b2d913cd938743bf0294b1e"
+libc = "musl"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "460a70c11e99099f0d7a0a69430965f1a630301b9ce33071f276101065857b3d"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.aarch64-linux-musl.tar.gz"
+[[catchaMouse16]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a3176d9eef1aa414534a815c9ab0acb5b4cc97cb"
+libc = "glibc"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "2f5616ae6f605fd732ec4f54e9d13099e3549ebc5a8467a97c65096d895c9ade"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[catchaMouse16]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "715acd1aee81f13271ccda6b2889ff19792b5377"
+libc = "musl"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "c317de707f62af1bca176c986792fbebec1144077ae11f7c2bfa5f4da233146f"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[catchaMouse16]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "24eb615c67e607de1c608fd942de8c9468e5253c"
+libc = "glibc"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "fc9cb51df78d7ac4151d516ac29ab2008e989315d5e5c74f0efc7475dc937215"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[catchaMouse16]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f05520959fc2307f936ec3c2f0ca6c321b71459e"
+libc = "musl"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "af10a5be3eef1560b21d1b3dd35c19eba1eb4b25faeceab444eed7aca666e0f1"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[catchaMouse16]]
+arch = "i686"
+git-tree-sha1 = "b02e0bc57ba065b7104c9ec543c2c75f085d1b08"
+libc = "glibc"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "1afab24a0dafdf38c6a2809b2e4e944e55b4c6a0ea7d7559b4f58ebb9c10fce7"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.i686-linux-gnu.tar.gz"
+[[catchaMouse16]]
+arch = "i686"
+git-tree-sha1 = "5c7c1990b30b2aa930435f49cf239689438dc941"
+libc = "musl"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "ccfcf45f5d7d5cedb62e9169661b10ba3c4312711e9430efa3b7bda05c906613"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.i686-linux-musl.tar.gz"
+[[catchaMouse16]]
+arch = "i686"
+git-tree-sha1 = "488f212e282473d0ec572999299ace727b30b80a"
+os = "windows"
+
+    [[catchaMouse16.download]]
+    sha256 = "cd03a842a881239a67481392ab61b28787e1e4a48bf351b3b2482a3f7964b986"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.i686-w64-mingw32.tar.gz"
+[[catchaMouse16]]
+arch = "powerpc64le"
+git-tree-sha1 = "fc90b0ee469c3ddaf6880c15abbc4767165d3e9c"
+libc = "glibc"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "4b5b9f436df1c488cfcdf96f9b63d5aaeaab6de541f320fccd0c9467b67ab6ef"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[catchaMouse16]]
+arch = "x86_64"
+git-tree-sha1 = "00600d3a8f2b255894d5b7f1cf1ec6a77cdf6b28"
+os = "macos"
+
+    [[catchaMouse16.download]]
+    sha256 = "05991e71df651133e5f8b317945b5bd20a08c796414a06f391f34295d8c35d59"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[catchaMouse16]]
+arch = "x86_64"
+git-tree-sha1 = "2676901f6306538040701261603026b39b5e2c59"
+libc = "glibc"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "0faf9b6632b374e5e2b603f34e95b4bad16618a31909bfed64c8c2a45c802bac"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[catchaMouse16]]
+arch = "x86_64"
+git-tree-sha1 = "9bbc86546e33fed285726459fa72d72b56ccdbe3"
+libc = "musl"
+os = "linux"
+
+    [[catchaMouse16.download]]
+    sha256 = "e1e243cf752540ea24921a4e2582d57cee3c9adae74bfb798d0334eba0dc38c2"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.x86_64-linux-musl.tar.gz"
+[[catchaMouse16]]
+arch = "x86_64"
+git-tree-sha1 = "ea59cc1184711830e6d56f16d0edece7dbcd2ee2"
+os = "freebsd"
+
+    [[catchaMouse16.download]]
+    sha256 = "f7dc86cf703715d1a6245fb104b9ef3dcaeecf37325864e8caa6800c57340b0b"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[catchaMouse16]]
+arch = "x86_64"
+git-tree-sha1 = "5bbc4fbeec9f168b778cff4800d2269fae5b08bb"
+os = "windows"
+
+    [[catchaMouse16.download]]
+    sha256 = "721a75b5e8ab83283d393528afce90c0e57f08688b3a13cdd949e1d2b3efd956"
+    url = "https://github.com/JuliaBinaryWrappers/catchaMouse16_jll.jl/releases/download/catchaMouse16-v0.1.0+0/catchaMouse16.v0.1.0.x86_64-w64-mingw32.tar.gz"
